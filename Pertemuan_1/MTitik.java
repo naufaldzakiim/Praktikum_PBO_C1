@@ -1,3 +1,10 @@
+/**
+ * File      : MTitik.java				22/02/23
+ * Penulis   : Naufal Dzaki Imtiyaz
+ * Deskripsi : Kelas yang berisi main dari Titik
+ * 
+ */
+
 public class MTitik {
 	public static void main(String[] args){
 		Titik t1;

@@ -1,3 +1,10 @@
+/**
+ * File      : Titik.java				22/02/23
+ * Penulis   : Naufal Dzaki Imtiyaz
+ * Deskripsi : Kelas Titik yang merupakan sebuah titik dengan absis dan ordinat
+ * 
+ */
+
 public class Titik {
 	double absis;
 	double ordinat;
